@@ -1,0 +1,12 @@
+ul {
+    color: blue;
+}
+
+#first + p {
+    color: red;
+    font-size: 20px;
+}
+
+section > p {
+    color: yellow;
+}
